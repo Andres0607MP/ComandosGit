@@ -1,3 +1,10 @@
+## 👥 Integrantes del Equipo
+- **Alejandro Galindo**
+- **Daniel Luque** 
+- **Andres Mancera** 
+
+---
+
 # Comandos Básicos de Git y GitHub ​🤯
 
 # Que es Git Hub 👀​
